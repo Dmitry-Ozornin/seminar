@@ -13,5 +13,7 @@ int index = - number1;
 while (index <= number1)
 {
     Console.Write($"{index} ");
-    index++;
+    index++; //index = index + 1;
+    // index--; index = index -1;
+    // index += 2; //index = index + 2;
 }
